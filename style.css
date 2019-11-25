@@ -1,0 +1,18 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.red {
+    background: red;
+}
+.green {
+    background: green;
+}
+.blue {
+    background: blue;
+}
+.box {
+    width: 200px;
+    height: 200px;
+}

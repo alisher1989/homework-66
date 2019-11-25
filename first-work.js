@@ -1,0 +1,12 @@
+let div1 = document.getElementById('string-3');
+console.log(div1.innerText);
+let div2 = document.getElementById('string-5');
+console.log(div2.innerText);
+let div3 = document.getElementById('string-2');
+console.log(div3.innerText);
+let div4 = document.getElementById('string-6');
+console.log(div4.innerText);
+let div5 = document.getElementById('string-4');
+console.log(div5.innerText);
+let div6 = document.getElementById('string-1');
+console.log(div6.innerText);
